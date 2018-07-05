@@ -1,2 +1,2 @@
 # ml
-Machine Learning Tasks
+A set of machine learning algorithms that I learn along the way.
